@@ -29,6 +29,8 @@ Finally, I used Power BI to create the data model, measures and dashboard.
 
 ## Dashboard
 
+![StreamBox dashboard](dashboard/streambox_dashboard.png)
+
 ## Tools
 
 - Google Sheets
