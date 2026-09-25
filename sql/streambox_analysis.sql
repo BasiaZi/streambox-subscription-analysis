@@ -1,0 +1,2 @@
+-- StreamBox Subscription Analysis
+-- SQL analysis performed in MySQL
