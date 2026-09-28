@@ -11,6 +11,8 @@ The main focus of the analysis was identifying patterns in cancellation timing, 
 ## Dataset
 
 The dataset used in this project comes from Maven Analytics. The original brand is MavenFlix; for this project, I use StreamBox as a fictional rebranding.
+The dataset is available under the Public Domain licence.  
+[Source: Maven Analytics](https://mavenanalytics.io/data-playground/streaming-video-subscriptions)
 
 The dataset consists of a main table with 3,069 rows, each representing a subscription, and a data dictionary describing the columns of the main table.
 
